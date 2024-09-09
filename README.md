@@ -14,3 +14,9 @@ BEGIN
 END //
 
 DELIMITER ;
+
+
+
+    --La función calcular_calificacion_promedio toma el identificador del docente (docente_id) como argumento.
+    Usa la función AVG para calcular el promedio de las calificaciones (calificacion) de las respuestas de la tabla respuestas_encuesta.
+    Retorna el promedio calculado.
